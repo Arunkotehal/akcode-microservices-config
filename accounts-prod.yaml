@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs "
+  message: "Welcome to EazyBank accounts related webhook APIs "
   contactDetails:
     name: "Reine Aishwarya- Product Owner"
     email: "{cipher}8d66112fd9ce1f8e9b3f81997b519f762a7416cafd401204a64b814e3a86076c57d8a4881b10e71eb875055e5aacf3a3"
@@ -10,6 +10,7 @@ accounts:
     - (453) 555-4829
 
     - (236) 203-0384
+
 
 
 
